@@ -14,7 +14,6 @@ const Main = styled.main`
 
 
 function PageDefault({ children }) {
-
   return (
     <>
       <Menu />

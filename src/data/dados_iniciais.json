@@ -108,32 +108,16 @@
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "John Wick: Chapter 3 - Parabellum",
-          "url": "https://www.youtube.com/watch?v=pU8-7BX9uxs"
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
         },
         {
           "titulo": "A Chegada",
           "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
         },
         {
-          "titulo": "Vingadores Ultimato",
-          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
-        },
-        {
-          "titulo": "Minha mãe é uma peça 3",
-          "url": "https://www.youtube.com/watch?v=vQs31hCrUU8"
-        },
-        {
-          "titulo": "Velozes e Furiosos 9",
-          "url": "https://www.youtube.com/watch?v=NnDGWyfP7q4"
-        },
-        {
-          "titulo": "Planeta dos macacos: A guerra",
-          "url": "https://www.youtube.com/watch?v=QzgWDG4QviU"
-        },
-        {
-          "titulo": "Jogador Nº 1",
-          "url": "https://www.youtube.com/watch?v=_BHmun-2sq0"
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
         }
       ]
     },
@@ -145,10 +129,6 @@
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
-        {
-          "titulo": "Cyberpunk 2077",
-          "url": "https://www.youtube.com/watch?v=YApuEWtG30w"
-        },
         {
           "titulo": "Final Fantasy 7",
           "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
@@ -168,14 +148,6 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        },
-        {
-          "titulo": "Forza Horizon 4",
-          "url": "https://www.youtube.com/watch?v=zJ477xAIlgU"
-        },
-        {
-          "titulo": "Ghost of Tsushima",
-          "url": "https://www.youtube.com/watch?v=iqysmS4lxwQ"
         }
       ]
     },
