@@ -31,7 +31,9 @@ function CadastroCategoria() {
   // ============
 
   useEffect(() => {
-    const URL = 'http://localhost:8080/categorias';
+    const URL = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://sky-flix.herokuapp.com/categorias';
     fetch(URL)
       .then(async (respostaDoServer) => {
         const resposta = await respostaDoServer.json();
@@ -128,6 +130,11 @@ function CadastroCategoria() {
         </Button>
       </form>
 
+      {categorias.length === 0 && (
+      <div>
+        Loading...
+      </div>
+      )}
       <ul>
         {categorias.map((categoria) => (
           <li key={`${categoria.nome}`}>
