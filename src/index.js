@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
@@ -16,7 +15,7 @@ const Pagina404 = () => (
   >
     <h1>Ops, quebrou tudo :O</h1>
     <p>
-      <a href="/">Você pode jogar ou voltar pra home :)</a>
+      <a href="/">Você pode jogar ou voltar pra home :| </a>
     </p>
     <p>
       Ou
